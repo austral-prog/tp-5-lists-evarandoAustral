@@ -19,4 +19,4 @@ def find_min(lista):
         for numero in lista:
             if numero < minimo:
                 minimo = numero"""
-    return minimo
+        return minimo
