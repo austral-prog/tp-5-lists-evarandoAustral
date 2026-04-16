@@ -13,7 +13,7 @@ def find_min(lista):
     """
     if len(lista) == 0:
         return None
-    else
+    else:
         minimo=min(lista)
         """minimo = lista[0]
         for numero in lista:

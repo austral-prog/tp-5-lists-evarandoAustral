@@ -13,10 +13,11 @@ def find_max(lista):
     """
     if len(lista) == 0:
         return None
-    else
+    else:
         maximo=max(lista)
         """maximo = lista[0]
         for numero in lista:
             if numero > maximo:
                 maximo = numero"""
         return maximo
+print(find_max([3,5,5,4,2]))
