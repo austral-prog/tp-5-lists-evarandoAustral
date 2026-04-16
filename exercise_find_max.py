@@ -20,4 +20,3 @@ def find_max(lista):
             if numero > maximo:
                 maximo = numero"""
         return maximo
-print(find_max([3,5,5,4,2]))
