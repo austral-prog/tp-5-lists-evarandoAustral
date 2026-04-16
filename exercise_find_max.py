@@ -15,8 +15,8 @@ def find_max(lista):
         return None
     else
         maximo=max(lista)
-    """maximo = lista[0]
-    for numero in lista:
-        if numero > maximo:
-            maximo = numero"""
+        """maximo = lista[0]
+        for numero in lista:
+            if numero > maximo:
+                maximo = numero"""
     return maximo
